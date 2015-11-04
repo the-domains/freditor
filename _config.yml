@@ -1,0 +1,23 @@
+name: freditor
+favicon: null
+layout_spectrum: 0.5989643055945635
+typography_spectrum: 0.5257737699430436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9611105637159199
+  lightness: 0.8381294144783169
+  saturation: 0.3363413189072162
+  rhythmicContrast: 0.05232358886860311
+purpose: []
